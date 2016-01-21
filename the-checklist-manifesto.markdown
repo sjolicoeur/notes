@@ -58,7 +58,7 @@ The US experiences an average of 20 serious building failures per year - a 0.000
 
 ### The idea
 
-Philosophy is to push power of decision making to the periphery and make management (which is part human, part machine) responsible only for enabling coordination and orchestration.
+Philosophy is to push power of decision making to the periphery and make management (which is part human, part machine) responsible only for enabling coordination and orchestration. __Note that most modern militaries have also gone through this transformation, pioneered by the Wehrmacht.
 
 During Katrina, FEMA was ineffective. Too centralized, field agents had no power to make decision, central office didn't have timely access to information. Resulted in farces like supply trucks being turned back because they weren't mentioned in the plan, and hundreds of buses sitting idle because noone had the authority to decide what to do with them.
 
@@ -140,7 +140,7 @@ Author describes lives saved by simple checks in his own practice.
 
 ## Thoughts
 
-__I don't know where to start. This is not a book about checklists. It's a book about building complex systems out of humans, and about the role of discipline and systems thinking in preventing catastrophic error.__
+__I don't know where to start. This is not a book about checklists. It's a book about building complex systems out of human parts, and about the role of discipline and systems thinking in preventing catastrophic error.__
 
 __It has many examples of [distributed cognition](https://en.wikipedia.org/wiki/Distributed_cognition) that I wasn't at all aware of. I was especially struck by the construction example, where the traditional top-down organizational structure is replaced by many autonomous groups tied together with a semi-automated coordination system. This is sci-fi level stuff and I've never even heard about it. Now I want to find out more. I'm sure other complex engineering fields (eg aerospace engineering) have similar systems.__
 
